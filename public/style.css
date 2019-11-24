@@ -1,0 +1,27 @@
+body{
+  padding-top:80px;
+}
+body{
+  background-color: greenyellow;
+  color: black;
+}
+input{
+  width: 30%;
+  border-radius: 25px;
+  height: 30px;
+}
+button{
+  border-radius: 25px;
+  background-color: yellow;
+}
+.btn-default{
+background-color: yellow;
+margin-bottom: 25px;
+border-radius: 25px;
+}
+h1{
+  font-size: 60px;
+}
+p{
+  font-size: 30px;
+}
