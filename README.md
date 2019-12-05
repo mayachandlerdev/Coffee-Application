@@ -1,4 +1,7 @@
-# CoffeeApplication
+# Coffee Application
+
+![alt text]()
+
 
 Git clone and npm install in your terminal for usage :)
 
