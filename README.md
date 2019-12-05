@@ -1,6 +1,6 @@
 # Coffee Application
 
-![alt text]()
+![alt text](coffeeapp.jpg)
 
 
 Git clone and npm install in your terminal for usage :)
